@@ -1,15 +1,37 @@
 {
-  "posts": [
+  "transfers": [
     {
       "id": 1,
-      "title": "hello"
+      "country": "MA",
+      "amount": 250,
+      "recipient": 10,
+      "status": "SUCCESS"
     },
     {
       "id": 2,
-      "title": "bye"
+      "country": "CM",
+      "amount": 50,
+      "recipient": 20,
+      "status": "SUCCESS"
+    },
+    {
+      "id": 2,
+      "country": "CM",
+      "amount": 50,
+      "recipient": 20,
+      "status": "ERROR"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "recipients": [
+    {
+      "id": 10,
+      "firstname": "Luke",
+      "lastname": "Skywalker",
+    },
+    {
+      "id": 20,
+      "firstname": "Pricess",
+      "lastname": "Leia",
+    }
+  ]
 }
