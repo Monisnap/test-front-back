@@ -29,7 +29,7 @@
       "country": "CM",
       "amount": 50,
       "recipient": 30,
-      "status": "ERROR",
+      "status": "SUCCESS",
       "date": "2020-01-03"
     },
     {
@@ -37,7 +37,7 @@
       "country": "MA",
       "amount": 350,
       "recipient": 30,
-      "status": "ERROR",
+      "status": "SUCCESS",
       "date": "2020-01-03"
     },
     {
@@ -45,7 +45,7 @@
       "country": "CM",
       "amount": 50,
       "recipient": 40,
-      "status": "ERROR",
+      "status": "SUCCESS",
       "date": "2020-01-03"
     }
   ],
