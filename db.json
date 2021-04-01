@@ -1,4 +1,14 @@
 {
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    },
+    {
+      "id": 2,
+      "title": "bye"
+    }
+  ],
   "transfers": [
     {
       "id": 1,
@@ -36,5 +46,8 @@
       "firstname": "Pricess",
       "lastname": "Leia",
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
