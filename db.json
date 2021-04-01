@@ -5,21 +5,24 @@
       "country": "MA",
       "amount": 250,
       "recipient": 10,
-      "status": "SUCCESS"
+      "status": "SUCCESS",
+      "date": "2020-01-01"
     },
     {
       "id": 2,
       "country": "CM",
       "amount": 50,
       "recipient": 20,
-      "status": "SUCCESS"
+      "status": "SUCCESS",
+      "date": "2020-01-02"
     },
     {
       "id": 2,
       "country": "CM",
       "amount": 50,
       "recipient": 20,
-      "status": "ERROR"
+      "status": "ERROR",
+      "date": "2020-01-03"
     }
   ],
   "recipients": [
