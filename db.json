@@ -9,44 +9,6 @@
       "title": "bye"
     }
   ],
-  "transfers": [
-    {
-      "id": 1,
-      "country": "MA",
-      "amount": 250,
-      "recipient": 10,
-      "status": "SUCCESS",
-      "date": "2020-01-01"
-    },
-    {
-      "id": 2,
-      "country": "CM",
-      "amount": 50,
-      "recipient": 20,
-      "status": "SUCCESS",
-      "date": "2020-01-02"
-    },
-    {
-      "id": 2,
-      "country": "CM",
-      "amount": 50,
-      "recipient": 20,
-      "status": "ERROR",
-      "date": "2020-01-03"
-    }
-  ],
-  "recipients": [
-    {
-      "id": 10,
-      "firstname": "Luke",
-      "lastname": "Skywalker",
-    },
-    {
-      "id": 20,
-      "firstname": "Pricess",
-      "lastname": "Leia",
-    }
-  ],
   "profile": {
     "name": "typicode"
   }
